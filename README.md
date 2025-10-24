@@ -1,3 +1,2 @@
 ﻿# TIC-TAK-TOE
- the code for the tic tak toe is in main
-
+The code for the tic-tak-toe is in demo.c 
